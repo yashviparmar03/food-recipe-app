@@ -1,0 +1,99 @@
+[
+  {
+    "id": 23,
+    "title": "Jalebi",
+    "category": "Dessert",
+    "image": "http://localhost:5000/images/jalebi.jpg",
+    "readyInMinutes": 45,
+    "servings": 5,
+    "rating": 4.9,
+    "reviews": 3100,
+    "summary": "Jalebi is a famous Indian sweet prepared by deep frying fermented batter and soaking it in sugar syrup.",
+    "ingredients": [
+      "Maida",
+      "Corn Flour",
+      "Curd",
+      "Sugar",
+      "Saffron",
+      "Oil"
+    ],
+    "instructions": [
+      "Prepare batter.",
+      "Ferment for 8 hours.",
+      "Prepare sugar syrup.",
+      "Heat oil.",
+      "Pipe batter in circles.",
+      "Deep fry.",
+      "Soak in syrup.",
+      "Drain excess syrup.",
+      "Serve hot.",
+      "Enjoy."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Veg Cutlet",
+    "category": "Snacks",
+    "image": "http://localhost:5000/images/veg-cutlet.jpg",
+    "readyInMinutes": 40,
+    "servings": 4,
+    "rating": 4.5,
+    "reviews": 670,
+    "summary": "Veg Cutlet is a crispy snack made with mashed vegetables and breadcrumbs.",
+    "ingredients": [
+      "Boiled Potatoes",
+      "Carrot",
+      "Beans",
+      "Peas",
+      "Breadcrumbs",
+      "Green Chilli",
+      "Oil",
+      "Salt",
+      "Garam Masala"
+    ],
+    "instructions": [
+      "Mash vegetables.",
+      "Mix spices.",
+      "Shape into cutlets.",
+      "Coat with breadcrumbs.",
+      "Heat oil.",
+      "Shallow fry.",
+      "Flip until golden.",
+      "Serve hot.",
+      "Serve with ketchup.",
+      "Enjoy."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Aloo Paratha",
+    "category": "Paratha",
+    "image": "http://localhost:5000/images/aloo-paratha.jpg",
+    "readyInMinutes": 35,
+    "servings": 4,
+    "rating": 4.9,
+    "reviews": 2500,
+    "summary": "Aloo Paratha is a stuffed Indian flatbread filled with spicy mashed potatoes.",
+    "ingredients": [
+      "Wheat Flour",
+      "Boiled Potatoes",
+      "Green Chilli",
+      "Coriander",
+      "Garam Masala",
+      "Salt",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare dough.",
+      "Mash potatoes with spices.",
+      "Stuff dough with potato filling.",
+      "Roll gently.",
+      "Cook on hot tawa.",
+      "Apply butter.",
+      "Flip both sides.",
+      "Cook until golden.",
+      "Serve with curd.",
+      "Enjoy hot."
+    ]
+  }
+]
